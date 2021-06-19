@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Balamurugan nagarajan
-- 👀 I’m interested in Asp.Net Full stack Web Developement
+- 👀 I’m Working as Asp.Net Senior Developer
 - 🌱 I’m currently learning Blazor
 - 💞️ I’m looking to collaborate on Blazor
 - 📫 reach me at bala24394@gmail.com
